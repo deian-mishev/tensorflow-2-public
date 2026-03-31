@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Live Server (TF.js Labs)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/serve.py",
+            "python": "C:/Users/dsmis/.conda/envs/tensorflow-deployment/python.exe",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/C1_Browser-based-TF-JS/W1/assignment"
+        }
+    ]
+}
